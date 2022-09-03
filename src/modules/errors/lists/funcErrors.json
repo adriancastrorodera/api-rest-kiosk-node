@@ -1,0 +1,5 @@
+{
+    "validationError": { "errorCode": 400, "message": "Validation error"},
+    "resourceNotFound": {"errorCode":404, "message": "Resource no exists" },
+    "resourceAlreadyExists": {"errorCode": 409, "message": "Resource already exists" }
+}
