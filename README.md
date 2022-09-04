@@ -139,7 +139,7 @@ With this, and the resource explained before, the user can release a pagination 
 
 ## Suggestion to how to deploy this in a production environment
 - [Using Docker or manully] Deploy this in a server as a service. You can use Jenkins as CI or do manually.
-- [Using Docker or manully] Deploy this in AWS as a service using AWS services like EC2. You can use Jenkins as CI or do manually.
-- [Using Docker or manully] Deploy this in AWS as a AWS Lambda. Also, you can deploy each endpoint as a AWS Lambda and use and AWS Api Gateway to route the request.
+- [Using Docker, Cloud Formation or manully] Deploy this in AWS as a service using AWS services like EC2. You can use Jenkins as CI or do manually.
+- [Using Docker, Cloud Formation or manully] Deploy this in AWS as a AWS Lambda. Also, you can deploy each endpoint as a AWS Lambda and use and AWS Api Gateway to route the request.
 - [Using Docker or manully] Use before solutions using Azure.
 - Use Third party service to deploy the proyect in a server as a service (like nssm).
