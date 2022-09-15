@@ -9,7 +9,7 @@
     "unit-test": "jest --colors --coverage test/unit-test --globalSetup ./test/unit-test-preload.js",
     "test": "npm run linter && npm run unit-test"
   },
-  "author": "",
+  "author": "adricaatro6@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "10.1.0",
